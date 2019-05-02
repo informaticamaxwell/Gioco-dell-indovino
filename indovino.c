@@ -25,6 +25,7 @@ int main()
                 i=i+1;
                 printf("Bravo hai indovinato il numero al %d tentativo\n",i);
                 i=i-1;
+                break;
             }
             
         }
